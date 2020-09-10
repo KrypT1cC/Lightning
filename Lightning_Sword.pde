@@ -4,7 +4,7 @@ int endX = 150;
 int endY = 0;
 int numberTimesClicked = 0;
 int diam = 10;
-boolean backReset = false;'
+boolean backReset = false;
 
 void setup()
 {
